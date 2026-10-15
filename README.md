@@ -1,3 +1,3 @@
 # Intodución a Devop
 
-!img(img/devops.png)
+! [Devops](img/Devops.PNG)
